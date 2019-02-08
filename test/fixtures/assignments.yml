@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  task: one
+  status: false
+  completed_date: 
+
+two:
+  user: two
+  task: two
+  status: false
+  completed_date: 
